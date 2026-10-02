@@ -1,3 +1,4 @@
+
 # CareSync — Long-Term Disease Treatment Monitoring & Care Coordination Platform
 
 A complete full-stack clinical web application for **Long-Term Disease Care & Treatment Monitoring**, built with a modular React/Vite frontend and an Express backend. The existing frontend API remains compatible; the versioned `/api/v1` API uses PostgreSQL for relational clinical data and MongoDB for flexible reports and logs.
@@ -75,3 +76,4 @@ long-term-disease-care-frontend/
     ├── vite.config.js                   # Vite configuration with /api proxy
     └── package.json
 ```
+
