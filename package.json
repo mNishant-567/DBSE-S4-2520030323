@@ -1,0 +1,12 @@
+{
+  "name": "care-sync-workspace",
+  "version": "1.0.0",
+  "description": "CareSync - Long-Term Disease Treatment Monitoring and Care Coordination System (Full Stack)",
+  "type": "module",
+  "scripts": {
+    "dev": "node start-dev.js",
+    "server": "node server/server.js",
+    "client": "npm run dev --prefix long-term-disease-care-frontend",
+    "build": "npm run build --prefix long-term-disease-care-frontend"
+  }
+}
